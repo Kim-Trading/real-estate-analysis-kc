@@ -18,7 +18,7 @@ The analysis used linear regression. The model started intially with a simple li
 
 ### Results
 
-![](/Users/kimleykadoche/Documents/Flatiron/Phase_2/Phase_2_project/Images/OLS_Regression_results.png)
+[](Images/OLS_Regression_results.png)
 
 ### Conclusion
 
