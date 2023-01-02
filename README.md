@@ -1,3 +1,6 @@
+![](Images/KC_view.png)
+
+
 ## Project Overview
 
 This project uses multiple linear regression modeling to analyze house sales in a northwestern county.
@@ -18,7 +21,7 @@ The analysis used linear regression. The model started intially with a simple li
 
 ### Results
 
-[](Images/OLS_Regression_results.png)
+![](Images/OLS_Regression_results.png)
 
 ### Conclusion
 
