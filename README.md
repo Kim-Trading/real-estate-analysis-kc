@@ -1,5 +1,7 @@
+
 ![](Images/KC_view.png)
 
+Link to github: https://github.com/Kim-Trading/real-estate-analysis-kc
 
 ## Project Overview
 
@@ -22,6 +24,7 @@ The analysis used linear regression. The model started intially with a simple li
 ### Results
 
 ![](Images/OLS_Regression_results.png)
+![](Images/Best_fit_line.png)
 
 ### Conclusion
 
